@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="todo/app" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/../node_modules/@react-native-async-storage/async-storage/android/react-native-async-storage_async-storage.iml" group="todo/react-native-async-storage_async-storage" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-linear-gradient/android/react-native-linear-gradient.iml" group="todo/react-native-linear-gradient" />
+      <module fileurl="file://$PROJECT_DIR$/todo.iml" filepath="$PROJECT_DIR$/todo.iml" group="todo" />
+    </modules>
+  </component>
+</project>
